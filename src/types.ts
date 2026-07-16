@@ -4,3 +4,5 @@ export interface Todo {
   completed: boolean
   createdAt: string
 }
+
+export type Filter = 'all' | 'active' | 'completed'
