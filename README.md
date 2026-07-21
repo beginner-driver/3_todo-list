@@ -2,7 +2,7 @@
 
 프론트엔드·백엔드 개념을 연습하기 위한 Todo(할 일 관리) 앱. 실제 서버 없이 GitHub Pages(정적 호스팅)에만 배포하고, "백엔드"는 프론트엔드 코드 안에서 REST API처럼 동작하도록 시뮬레이션했다.
 
-**배포 링크:** https://beginner-driver.github.io/todo-list/
+**배포 링크:** https://beginner-driver.github.io/3_todo-list/
 
 ## 기능
 
